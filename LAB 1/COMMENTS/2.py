@@ -1,0 +1,2 @@
+#print("BOMBA")
+print("Granade")

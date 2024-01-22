@@ -1,0 +1,6 @@
+x=int(2.44)
+y=int(3)
+z=int('4')
+print(x)
+print(y)
+print(z)
