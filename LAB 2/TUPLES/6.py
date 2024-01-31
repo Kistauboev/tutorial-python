@@ -1,0 +1,5 @@
+x=('banana', 'kiwi', 'ananas', 'pear', 'apple', 'peach', 'cherry')
+y=list(x)
+y.append('granade')
+x=tuple(y)
+print(x)

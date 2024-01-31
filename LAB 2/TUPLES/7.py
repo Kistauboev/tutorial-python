@@ -1,0 +1,5 @@
+x=('banana', 'kiwi', 'ananas', 'pear', 'apple', 'peach', 'cherry')
+y=list(x)
+y.remove('ananas')
+x=tuple(y)
+print(x)
